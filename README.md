@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a NodeJs developer and have a fondness for devops
+I'm a backend developer and have a fondness for devops
 
 **About me**
 
-- 💼 Last-year student majoring in computer science and having elementary experience in building and developing software. (have an interest in products and outsourcing)
+- 💼 One year of experience in software development.
 
 - ❤️ Willing to learn new programming languages and technologies to develop software that makes life better.
 
