@@ -6,7 +6,7 @@ I'm a backend developer with a passion for cloud.
 
 **About me**
 
-- 💼 One year of experience in software development, focusing on backend technologies.
+- 💼 Three years of experience in software development, focusing on backend technologies.
 - ❤️ Eager to learn and master new technologies and solving problems.
 - 🚀 Dedicated to building efficient, scalable, and robust software solutions.
 - 🤝 Thrive in collaborative environments and enjoy working with dynamic teams to achieve common goals.
