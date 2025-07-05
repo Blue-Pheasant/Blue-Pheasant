@@ -14,10 +14,10 @@ I'm a backend developer with a passion for cloud.
 
 **My skills**
 
-<code><img height="30" alt=".net" src="./assets/.net.png"></code>
-<code><img height="30" alt="php" src="./assets/azure.png"></code>
-<code><img height="30" alt="nodejs" src="./assets/icons8-nodejs-480.png"></code>
-<code><img height="30" alt="react" src="./assets/react.webp"></code> 
+<code><img height="30" width="30" alt=".net" src="./assets/.net.png"></code>
+<code><img height="30" width="30" alt="php" src="./assets/azure.png"></code>
+<code><img height="30" width="30" alt="nodejs" src="./assets/icons8-nodejs-480.png"></code>
+<code><img height="30" width="30" alt="react" src="./assets/react.webp"></code> 
 
 **Github stats**
 
