@@ -1,24 +1,14 @@
-<p align="center"><h3 width="80%"> Hello, I'm Long. I am a developer !</h3></a></p>
-
+<p align="center"><h3 width="80%"> Hello, I'm Long. I am a developer!</h3></p>
 <br />
 
-I'm a backend developer with a passion for cloud.
+I'm a full-stack engineer specializing in C#/.NET and cloud-native development on Azure.
 
 **About me**
-
-- 💼 Three years of experience in software development, focusing on backend technologies.
-- ❤️ Eager to learn and master new technologies and solving problems.
-- 🚀 Dedicated to building efficient, scalable, and robust software solutions.
-- 🤝 Thrive in collaborative environments and enjoy working with dynamic teams to achieve common goals.
-- 📚 Continuously improving my skills and staying up-to-date with industry trends.
-
-**My skills**
-
-<code><img height="30" width="30" alt=".net" src="./assets/.net.png"></code>
-<code><img height="30" width="30" alt="php" src="./assets/azure.png"></code>
-<code><img height="30" width="30" alt="nodejs" src="./assets/icons8-nodejs-480.png"></code>
-<code><img height="30" width="30" alt="react" src="./assets/react.webp"></code> 
+- Full-stack engineer building event-driven microservices, serverless systems, and multi-tenant SaaS platforms.
+- Design and build scalable cloud solutions on Azure, from architecture through production operations.
+- Also build production AI inference pipelines (computer vision, OCR) on Azure GPU infrastructure.
+- Enjoy leading design discussions and mentoring engineers within cross-functional teams.
+- Quick to pick up new platforms and stacks; always learning.
 
 **Github stats**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Pheasant&theme=swift)](https://github.com/Blue-Pheasant)
+[![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Pheasant&theme=swift)](https://github.com/Blue-Pheasant)
